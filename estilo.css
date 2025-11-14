@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Smooch+Sans:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+   
+    background-color: #F4F0EA;
+    color: #341100;
+    font-family: "Cabin" , sans-serif;
+   font-weight: 400;
+    
+ }
+ 
+   
+ header{ 
+     text-align: center;
+    background-color:#45b3e0;
+    padding: 2rem;
+   
+   
+
+ }
+ section{
+    
+    padding: 2rem;
+    gap: 1.5rem;
+    text-align: center;
+ }
+ p{
+    padding: 5px;
+    gap: 0.5rem;
+ }
+ h2 a{
+    color: #45b3e0;
+ }
+ .Sugestãodelinks{
+    padding: 5px;
+    gap: 1rem;
+ }
+ 
+ 
+  
